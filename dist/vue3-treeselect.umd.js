@@ -8527,7 +8527,7 @@ function setupResizeAndScrollEventListeners($el, listener) {
 }
 // CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--13-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/vue-loader-v16/dist??ref--1-1!./src/components/Tip.vue?vue&type=script&lang=js
 
-/* harmony default export */ var Tipvue_type_script_lang_js = (Object(external_commonjs_vue_commonjs2_vue_root_Vue_["defineComponent"])({
+/* harmony default export */ var Tipvue_type_script_lang_js = (defineComponent({
   name: 'vue-treeselect--tip',
   functional: true,
   props: {
